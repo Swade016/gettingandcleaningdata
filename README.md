@@ -12,6 +12,6 @@ The repo should have a script, this readme file, and a codebook.
 
 **Script Output**
 Expected Output from script:
-'''
+```
 [1] "Tidy dataset created"
-'''
+```
