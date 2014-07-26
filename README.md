@@ -1,5 +1,8 @@
 **General Information**
-This repo contains the code to clean and tidy the data obtained from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+This repo contains the code to clean and tidy the data obtained from: 
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 The repo should have a script, this readme file, and a codebook.
 
 **Running the script**
