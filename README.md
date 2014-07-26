@@ -1,9 +1,19 @@
 **Information**
+
 This repo contains the code to clean and tidy the data obtained from: 
-
+```
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+```
 
-The repo should have a script, this readme file, and a codebook.
+The repo should have a script, this readme file, and a codebook.  
+
+You must run the following code and then set your working directory to the folder you have placed the data for this script to work!
+```
+install.packages("plyr")
+install.packages("reshape2")
+library(plyr)
+library(reshape2)
+```
 
 **Execution Order**
 
